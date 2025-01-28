@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-- Link to UH computer science program: https://www.uh.edu/nsm/computer-science/
+- [UH computer science website](https://www.uh.edu/nsm/computer-science/)
 
-- Link to my personal resume: 
+- Personal Resume
