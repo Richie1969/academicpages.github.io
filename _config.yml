@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_Picture.JPG"
   name             : "Colton Richie"
   pronouns         : # example: "she/her"  
   bio              : "Senior at University of Houston studying Computer Science"
