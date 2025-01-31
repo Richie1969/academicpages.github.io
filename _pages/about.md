@@ -9,4 +9,4 @@ redirect_from:
 
 - [UH computer science website](https://www.uh.edu/nsm/computer-science/)
 
-- Personal Resume
+- [Personal Resume](/files/Resume-ColtonJoeRichie.pdf)
