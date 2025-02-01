@@ -6,21 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
--
-- Hello, I'm Colton Richie, a senior at the University of Houston studying Computer Science. I have a strong passion for software development, problem-solving, and exploring new technologies, and I enjoy building projects   
+ Hello, I'm Colton Richie, a senior at the University of Houston studying Computer Science. I have a strong passion for software development, problem-solving, and exploring new technologies, and I enjoy building projects   
   that challenge me to think critically and creatively.
 
-- Education
-- ======
-- B.S in Computer Science
-  University of Houston
+Education
+
+- B.S in Computer Science,
+  University of Houston,
   Expected Graduation: May 2025
 
-- Links
-- ======
+Links
+
 - [UH computer science website](https://www.uh.edu/nsm/computer-science/)
 - [Personal Resume](/academicpages.github.io/files/Resume-ColtonJoeRichie.pdf)
 
-- Contact Me
-- ======
+Contact Me
+
 - [Email](cjrichie@cougarnet.uh.edu)
