@@ -18,4 +18,4 @@ redirect_from:
 
 - [UH computer science website](https://www.uh.edu/nsm/computer-science/)
 - [Personal Resume](/academicpages.github.io/files/Resume-ColtonJoeRichie.pdf)
-- [Email](cjrichie@cougarnet.uh.edu)
+- Email: cjrichie@cougarnet.uh.edu
