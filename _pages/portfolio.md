@@ -17,3 +17,5 @@ A web-based user management system built with Django and PostgreSQL.
 
 #### Github Repository
 [View on Github](https://github.com/uynvu078/Cambridge_teamProject)
+
+</div>
