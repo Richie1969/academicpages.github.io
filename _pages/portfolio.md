@@ -4,6 +4,8 @@ permalink: /portfolio/
 layout: page
 ---
 
+<div style="max-width: 800px; margin: auto; padding: 20px;">
+
 ## Porfolio
 
 ### User Management System Project
