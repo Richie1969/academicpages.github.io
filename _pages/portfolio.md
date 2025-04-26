@@ -6,7 +6,7 @@ layout: page
 
 <div style="max-width: 800px; margin: auto; padding: 20px;">
 
-<h1><u>Portfolio</u></h1>
+<h1 style="text-decoration: underline; text-decoration-thickness: 3px;">Portfolio</h1>
 
 <h2>User Management System Project</h2>
 
