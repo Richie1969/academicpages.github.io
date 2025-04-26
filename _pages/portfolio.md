@@ -6,16 +6,16 @@ layout: page
 
 <div style="max-width: 800px; margin: auto; padding: 20px;">
 
-## Porfolio
+<h2>Porfolio</h2>
 
-### User Management System Project
+<h3>User Management System Project</h3>
 
-A web-based user management system built with Django and PostgreSQL.
+<p>A web-based user management system built with Django and PostgreSQL.</p>
 
-#### Project Demo
-[Watch on Youtube](https://www.youtube.com/watch?v=Y1gwqXkWhXM&ab_channel=ColtonRichie)
+<h4>Project Demo</h4>
+<p><a href="https://www.youtube.com/watch?v=Y1gwqXkWhXM&ab_channel=ColtonRichie" target="_blank">Watch on Youtube</a></p>
 
-#### Github Repository
-[View on Github](https://github.com/uynvu078/Cambridge_teamProject)
+<h4>Github Repository</h4>
+<p><a href="https://github.com/uynvu078/Cambridge_teamProject" target="_blank">View on Github</a></p>
 
 </div>
